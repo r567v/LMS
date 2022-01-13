@@ -1,2 +1,1 @@
-# LMS
-Library Management System using Python and MySQL
+# library-mangement-system using mysql and python
