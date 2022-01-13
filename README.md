@@ -1,1 +1,1 @@
-# library-mangement-system using mysql and python
+# Library Management System using MySQL and Python
